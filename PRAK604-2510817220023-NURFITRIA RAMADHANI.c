@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <tring.h>
 
 int main() {
     char a[200], b[200];
